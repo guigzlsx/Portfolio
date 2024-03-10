@@ -1,0 +1,36 @@
+#contact {
+  margin: 20px;
+  padding: 20px;
+  margin-top: 8em;
+  margin-bottom: 8em;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  padding: 20px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer p {
+  margin: 10px 0;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #888;
+}
+
+#back-to-top {
+  display: inline-block;
+  color: aliceblue;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+#back-to-top:hover {
+  color: red;
+}

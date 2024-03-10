@@ -1,0 +1,36 @@
+.skills {
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+.langages,
+.environnements,
+.reseaux {
+  margin: 10px auto;
+  width: 80%;
+}
+
+.skills h2 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+.skills h3 {
+  padding: 5px;
+  font-size: 1.5rem;
+  padding-bottom: 20px;
+}
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  margin-bottom: 5px;
+  padding: 3px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

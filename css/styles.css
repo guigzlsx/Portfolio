@@ -1,0 +1,10 @@
+/* FICHIERS CSS */
+@import url("reset.css");
+@import url("landing_page.css");
+@import url("about.css");
+@import url("skills.css");
+@import url("realisations.css");
+@import url("contact.css");
+
+/* FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");

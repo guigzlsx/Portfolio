@@ -1,0 +1,44 @@
+.About {
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.About h2 {
+  font-size: 2.3em;
+  margin-bottom: 60px;
+}
+
+.About p {
+  font-size: 1.4em;
+  line-height: 1.5;
+  color: white;
+  width: 60%;
+}
+
+/* Styles pour les écrans de taille moyenne (tablette) */
+@media (max-width: 768px) {
+  .About h2 {
+    font-size: 2em;
+  }
+
+  .About p {
+    font-size: 1.2em;
+    width: 80%;
+  }
+}
+
+/* Styles pour les petits écrans (mobile) */
+@media (max-width: 480px) {
+  .About h2 {
+    font-size: 1.7em;
+  }
+
+  .About p {
+    font-size: 1em;
+    width: 100%;
+  }
+}
