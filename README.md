@@ -14,7 +14,7 @@ Le portfolio est divisé en plusieurs sections :
 
 ## Comment utiliser
 
-Vous pouvez visiter mon portfolio en allant à l'URL suivante : `https://your-portfolio-url.com`
+Vous pouvez visiter mon portfolio en allant à l'URL suivante : `[https://your-portfolio-url.com](https://guigzlsx.github.io/Portfolio/)`
 
 ## Contact
 
